@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="MySql.Data" Version="8.0.32.1" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HRSAsync.BAL\HRSAsync.BAL.csproj" />
+    <ProjectReference Include="..\HRSAsync.DAL\HRSAsync.DAL.csproj" />
+    <ProjectReference Include="..\HRSAsync.Interface\HRSAsync.Interface.csproj" />
+    <ProjectReference Include="..\HRSAsync.Models\HRSAsync.Models.csproj" />
+  </ItemGroup>
+
+</Project>

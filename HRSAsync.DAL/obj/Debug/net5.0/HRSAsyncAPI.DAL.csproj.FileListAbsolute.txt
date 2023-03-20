@@ -1,0 +1,5 @@
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.DAL\obj\Debug\net5.0\HRSAsyncAPI.DAL.csproj.AssemblyReference.cache
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.DAL\obj\Debug\net5.0\HRSAsyncAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.DAL\obj\Debug\net5.0\HRSAsyncAPI.DAL.AssemblyInfoInputs.cache
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.DAL\obj\Debug\net5.0\HRSAsyncAPI.DAL.AssemblyInfo.cs
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.DAL\obj\Debug\net5.0\HRSAsyncAPI.DAL.csproj.CoreCompileInputs.cache

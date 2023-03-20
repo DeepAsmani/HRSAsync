@@ -1,0 +1,12 @@
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\bin\Debug\net5.0\HRSAsyncAPI.Models.deps.json
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\bin\Debug\net5.0\HRSAsyncAPI.Models.dll
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\bin\Debug\net5.0\ref\HRSAsyncAPI.Models.dll
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\bin\Debug\net5.0\HRSAsyncAPI.Models.pdb
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\obj\Debug\net5.0\HRSAsyncAPI.Models.csproj.AssemblyReference.cache
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\obj\Debug\net5.0\HRSAsyncAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\obj\Debug\net5.0\HRSAsyncAPI.Models.AssemblyInfoInputs.cache
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\obj\Debug\net5.0\HRSAsyncAPI.Models.AssemblyInfo.cs
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\obj\Debug\net5.0\HRSAsyncAPI.Models.csproj.CoreCompileInputs.cache
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\obj\Debug\net5.0\HRSAsyncAPI.Models.dll
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\obj\Debug\net5.0\ref\HRSAsyncAPI.Models.dll
+W:\HRSBook\HRSAPI\HRSAsyncAPI\HRSAsync.Models\obj\Debug\net5.0\HRSAsyncAPI.Models.pdb
